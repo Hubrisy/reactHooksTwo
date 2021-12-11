@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactHooksTwo/static/css/main.a617e044.chunk.css",
+    "main.js": "/reactHooksTwo/static/js/main.2e80efdb.chunk.js",
+    "main.js.map": "/reactHooksTwo/static/js/main.2e80efdb.chunk.js.map",
+    "runtime-main.js": "/reactHooksTwo/static/js/runtime-main.80c8b8a7.js",
+    "runtime-main.js.map": "/reactHooksTwo/static/js/runtime-main.80c8b8a7.js.map",
+    "static/js/2.4867df62.chunk.js": "/reactHooksTwo/static/js/2.4867df62.chunk.js",
+    "static/js/2.4867df62.chunk.js.map": "/reactHooksTwo/static/js/2.4867df62.chunk.js.map",
+    "static/js/3.cb922b3f.chunk.js": "/reactHooksTwo/static/js/3.cb922b3f.chunk.js",
+    "static/js/3.cb922b3f.chunk.js.map": "/reactHooksTwo/static/js/3.cb922b3f.chunk.js.map",
+    "index.html": "/reactHooksTwo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/reactHooksTwo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4867df62.chunk.js.LICENSE.txt": "/reactHooksTwo/static/js/2.4867df62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80c8b8a7.js",
+    "static/js/2.4867df62.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2e80efdb.chunk.js"
+  ]
+}
